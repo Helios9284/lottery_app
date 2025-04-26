@@ -124,4 +124,4 @@ This project is licensed under the MIT License. Please have a look at the [LICEN
 
 For any questions or feedback, please reach out to:
 
-- **Helios** - [Jagadeeshftw](https://github.com/Helios9284)
+- **Helios** - [Helios](https://github.com/Helios9284)
